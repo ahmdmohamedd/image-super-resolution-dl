@@ -9,8 +9,8 @@ This repository implements an **Image Super-Resolution System** using a deep lea
 - Evaluates performance using **Peak Signal-to-Noise Ratio (PSNR)** and **Structural Similarity Index (SSIM)**.
 
 ## Results
-- **PSNR**: 13.81
-- **SSIM**: 0.38
+- Peak Signal-to-Noise Ratio **PSNR**: 13.81
+- Structural Similarity Index **SSIM**: 0.38
 
 These results reflect a basic implementation trained on a small dataset subset for demonstration purposes.
 
